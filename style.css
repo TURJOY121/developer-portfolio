@@ -62,9 +62,9 @@ h1{
 
 
 #ex{
-    color: coral;
+    color: blue;
+    background-color: aqua;
     padding-left: 12px;
-    background-color: cornsilk;
 }
 
 .unit{
@@ -88,4 +88,12 @@ h1{
 }
 footer p{
     text-align: center;
+    color: rgb(255, 0, 0);
+    font-weight: 300;
+}
+#gittu{
+    display: flexbox;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10px;
 }
