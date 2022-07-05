@@ -38,13 +38,15 @@ section{
     padding-top: 50px;
     width: 50%;
     padding-right: 15px;
+    margin-left: 50px;
 }
 .nxt{
     color: aqua;
 }
 .hw img{
-    width: 72%;
+    width: 79%;
     padding-left: 17px;
+
 }
 .name-ht{
     color: royalblue;
