@@ -51,3 +51,9 @@ section{
 .name-ht{
     color: royalblue;
 }
+.dream{
+   background-image: url(dream-bg.png);
+   background-repeat: no-repeat;
+   background-position: right;
+   width: 100%;
+}
